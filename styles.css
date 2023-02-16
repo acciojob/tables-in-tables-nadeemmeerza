@@ -3,3 +3,5 @@
 table{
 	margin:20px;
 }
+th{ padding-left:50px;
+     padding-right:50px; }
